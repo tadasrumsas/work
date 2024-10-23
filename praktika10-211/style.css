@@ -86,10 +86,8 @@ nav a:hover {
 }
 
 .projects {
-
     text-align: center;
     background-color: #49567c;
- 
 }
 
 .projects-grid {
@@ -142,7 +140,6 @@ a:hover .box-arrow {
 }
 
 .button-show:hover {
-
     background-color: #b63947;
 }
 
